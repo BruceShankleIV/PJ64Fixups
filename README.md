@@ -1,4 +1,4 @@
-Development is moved to https://github.com/Luna-Project64/Luna-Project64
+Development is ended, this is just an archive. 3.0-N has some regressions from 1.6 and is not suggested.
 
 # PJ64Fixups
 Fixups that patch the following PJ64 1.6 issues:
